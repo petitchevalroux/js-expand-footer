@@ -1,5 +1,10 @@
 # js-expand-footer
 
+## Install
+```
+npm install --save petitchevalroux/js-expand-footer
+```
+
 ## Usage
 
 ### HTML
