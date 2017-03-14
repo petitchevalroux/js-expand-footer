@@ -5,6 +5,7 @@
     "scripts": {
         "test": "make tests"
     },
+    "main": "src/expand-footer.js",
     "repository": {
         "type": "git",
         "url": "git+ssh://github.com/petitchevalroux/js-expand-footer.git"
